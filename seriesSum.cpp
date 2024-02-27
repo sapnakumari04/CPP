@@ -10,7 +10,7 @@ int findsum(int num){
 
 int main(){
     int n;
-    cout<<"Enter the value of n , till which sum is required:-";
+    cout<<"Enter the value of n :-";
     cin>>n;
     cout<<findsum(n);
     return 0;
