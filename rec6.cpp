@@ -2,7 +2,8 @@
 #include <string>
 
 using namespace std;
-
+//// Function to check if a string is a palindrome
+//THE FUNCCTION IS CASE SENSITIVE i.e. S!=s
 bool f(string str, int start, int end) {
   if (start >= end) {
     return true;
