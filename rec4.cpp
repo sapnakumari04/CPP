@@ -12,7 +12,7 @@ int sum(int n)
 int main()
 {
     int n;
-    cout<<"enter n";
+    cout<<"enter the value of n:";
     cin>>n;
     cout<<sum(n);
 }
