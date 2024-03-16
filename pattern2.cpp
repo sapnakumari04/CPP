@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
+//This code will print the pattern
+/*  *
+    * *
+    * * *
+    * * * *
+*/    
 
 int main()
 {
