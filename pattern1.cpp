@@ -1,5 +1,12 @@
 #include<iostream>
 using namespace std;
+//This code will print heart shaped pattern 
+/*  ** ** 
+   *  *  *
+   *     *
+    *   * 
+     * *  
+      *    */
 
 int main()
 {
